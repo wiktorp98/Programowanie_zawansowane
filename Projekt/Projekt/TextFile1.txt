@@ -1,0 +1,21 @@
+﻿"INSERT INTO `users`( `name`, `surname`, `email`, `password`, `position`) VALUES ('Kacper','Korbus','kacperkorbus@mail.pl','12345','C'
+
+CREATE TABLE orders(
+id INT AUTO_INCREMENT primary key,
+county VARCHAR(56) not null,
+city VARCHAR(56) not null,
+adres VARCHAR(128) not null,
+status VARCHAR(1) not null,
+sum DECIMAL not null,
+items text not null
+
+)
+
+CREATE TABLE items(
+id INT NOT NULL,
+name varchar(128) not null,
+price decimal not null,
+amount int not null,
+status varchar(1) not null
+)
+

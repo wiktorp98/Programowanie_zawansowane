@@ -1,0 +1,63 @@
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.directorForm.resources
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.registrationForm.resources
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.loginForm.resources
+C:\Users\david\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\david\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\david\source\repos\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.clientForm.resources
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.workerForm.resources
+C:\Users\david\source\repos\Projekt\Projekt\bin\Debug\MySql.Data.dll
+C:\Users\david\source\repos\Projekt\Projekt\bin\Debug\Google.Protobuf.dll
+C:\Users\david\source\repos\Projekt\Projekt\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\david\source\repos\Projekt\Projekt\bin\Debug\MySql.Data.xml
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.CopyComplete
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.InviteWorkerForm.resources
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.ModifyProductForm.resources
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.RealiseOrderForm.resources
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.ContactForm.resources
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.InsertNewProductForm.resources
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.ListOfClientsForm.resources
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.ListOfWorkersForm.resources
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.ShowOrdersForm.resources
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.ShowProductsForm.resources
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.ShowProductsClientForm.resources
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.AboutUsForm.resources
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.BasketForm.resources
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.HistoryForm.resources
+C:\Users\david\source\repos\Projekt\Projekt\obj\Debug\Projekt.ShowItemsOrderForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\bin\Debug\Google.Protobuf.dll
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\bin\Debug\MySql.Data.xml
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.AboutUsForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.BasketForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.ClientForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.ContactForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.DirectorForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.HistoryForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.InviteWorkerForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.InsertNewProductForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.ListOfClientsForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.ListOfWorkersForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.LoginForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.ModifyProductForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.RealiseOrderForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.RegistrationForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.ShowItemsOrderForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.ShowOrdersForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.ShowProductsForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.ShowProductsClientForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.WorkerForm.resources
+C:\Users\WIktor\Desktop\Projekt\Projekt poprawiony\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry>
+    <Key>3</Key>
+    <Item>
+      <Items>
+        <ID>2</ID>
+        <name>Bla</name>
+        <price>15</price>
+        <amount>2</amount>
+      </Items>
+    </Item>
+  </Entry>
+  <Entry>
+    <Key>10</Key>
+    <Item />
+  </Entry>
+</ArrayOfEntry>
